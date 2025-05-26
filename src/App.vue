@@ -199,7 +199,7 @@ const handleClickOutside = (event) => {
         <div class="logo">
           <div>📣</div>
           <div style="color: #000000">号外</div>
-          <div style="color: #4ada1d">HOWY</div>
+          <div style="color: #4ada1d">HOWHY</div>
         </div>
         <div class="tab">
           <div

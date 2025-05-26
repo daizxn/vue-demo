@@ -14,20 +14,26 @@
       <ArticleCard
         :title="'热点资讯'"
         :news="[
-          {
+  {
+            title: '安卓用户必看！Android 16界面UI首曝，这波升级真香了',
+            description:'有没有觉得你的手机界面越来越无聊了？同样的图标、相似的布局、千篇一律的动画……不过这次，安卓用户可能要集体尖叫了！最近，谷歌悄悄放出了Android 16的早期测试版...',
             // 自己控制文本信息参考这个
             url: 'https://sspai.com/post/66274',
             // title: 'WWDC 2025',
             // description: 'WWDC 2025 将于 6 月 3 日至 7 日举行，苹果公司将展示最新的软件和技术。',
             // // 图片下载到本地的public文件夹中，其引用路径参考下面这个
             // image: '/title-banner.png',
-            image:  `${this.baseUrl}/s1-1.webp`,
+            // image:  `${this.baseUrl}/s1-1.webp`,
           },
-          {
+  {
+            title: '安卓用户必看！Android 16界面UI首曝，这波升级真香了',
+            description:'有没有觉得你的手机界面越来越无聊了？同样的图标、相似的布局、千篇一律的动画……不过这次，安卓用户可能要集体尖叫了！最近，谷歌悄悄放出了Android 16的早期测试版...',
             url: 'https://sspai.com/post/88803',
-            image: `${this.baseUrl}/s1-2.webp`,
+            // image: `${this.baseUrl}/s1-2.webp`,
           },
-          {
+  {
+            title: '安卓用户必看！Android 16界面UI首曝，这波升级真香了',
+            description:'有没有觉得你的手机界面越来越无聊了？同样的图标、相似的布局、千篇一律的动画……不过这次，安卓用户可能要集体尖叫了！最近，谷歌悄悄放出了Android 16的早期测试版...',
             url: 'https://36kr.com/p/3305150923531776',
           },
         ]"
@@ -36,15 +42,21 @@
       <ArticleCard
         :title="'交互设计'"
         :news="[
-          {
+  {
+            title: '安卓用户必看！Android 16界面UI首曝，这波升级真香了',
+            description:'有没有觉得你的手机界面越来越无聊了？同样的图标、相似的布局、千篇一律的动画……不过这次，安卓用户可能要集体尖叫了！最近，谷歌悄悄放出了Android 16的早期测试版...',
             url: 'https://mp.weixin.qq.com/s/GWhV_VZpsgpOyoIePZYrgg',
           },
-          {
+  {
+            title: '安卓用户必看！Android 16界面UI首曝，这波升级真香了',
+            description:'有没有觉得你的手机界面越来越无聊了？同样的图标、相似的布局、千篇一律的动画……不过这次，安卓用户可能要集体尖叫了！最近，谷歌悄悄放出了Android 16的早期测试版...',
             url: 'https://mp.weixin.qq.com/s/629sHaUWAgF-xzQ6Kx-OiQ',
           },
-          {
+  {
+            title: '安卓用户必看！Android 16界面UI首曝，这波升级真香了',
+            description:'有没有觉得你的手机界面越来越无聊了？同样的图标、相似的布局、千篇一律的动画……不过这次，安卓用户可能要集体尖叫了！最近，谷歌悄悄放出了Android 16的早期测试版...',
             url: 'https://medium.com/@uxmag/ai-is-flipping-ux-upside-down-how-to-keep-your-ux-job-and-why-figma-is-a-titanic-its-not-for-301b89284a3a',
-            image:  `${this.baseUrl}/s2-3.jpg`,
+            // image:  `${this.baseUrl}/s2-3.jpg`,
           },
         ]"
       />
@@ -52,17 +64,21 @@
       <ArticleCard
         :title="'UI 设计'"
         :news="[
-          {
+  {
+            title: '安卓用户必看！Android 16界面UI首曝，这波升级真香了',
+            description:'有没有觉得你的手机界面越来越无聊了？同样的图标、相似的布局、千篇一律的动画……不过这次，安卓用户可能要集体尖叫了！最近，谷歌悄悄放出了Android 16的早期测试版...',
             url: 'https://mp.weixin.qq.com/s?__biz=MjM5MTg2NDA3MQ==&mid=2652239743&idx=2&sn=375aa61ab97f5d2e9a4de2fc6e3a3712&chksm=bc08b96071b8f1e198cea3915d3b674e1cafc3522a31a580ad9421806629f1a530a31b1bb56a&scene=27',
           },
-          {
+  {
+            title: '安卓用户必看！Android 16界面UI首曝，这波升级真香了',
+            description:'有没有觉得你的手机界面越来越无聊了？同样的图标、相似的布局、千篇一律的动画……不过这次，安卓用户可能要集体尖叫了！最近，谷歌悄悄放出了Android 16的早期测试版...',
             url: 'https://news.airbnb.com/airbnb-2025-summer-release/',
           },
           {
             url: 'https://baijiahao.baidu.com/s?id=1831741780288398075&wfr=spider&for=pc',
             title: '安卓用户必看！Android 16界面UI首曝，这波升级真香了',
             description:'有没有觉得你的手机界面越来越无聊了？同样的图标、相似的布局、千篇一律的动画……不过这次，安卓用户可能要集体尖叫了！最近，谷歌悄悄放出了Android 16的早期测试版...',
-            image:`${this.baseUrl}/s3-3.webp`,
+            // image:`${this.baseUrl}/s3-3.webp`,
 
           },
         ]"
